@@ -1,3 +1,35 @@
 h1 {
-  color: blue;
+  color: darkblue;
+  font-family: arial;
+  text-align: center;
+}
+
+h2 {
+  color: darkblue;
+  font-family: arial;
+  text-align: center;
+}
+
+h3 {
+  color: darkblue;
+  font-family: arial;
+  text-align: center;
+}
+
+ul {
+  color: darkblue;
+  font-style: none;
+  font-weight: bold;
+  font-size: 18px;
+}
+
+p {
+  color: darkblue;
+  font-size: 20px;
+  text-align: left;
+  font-style: italic;
+}
+
+body {
+  background-color: skyblue;
 }
