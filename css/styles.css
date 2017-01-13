@@ -10,6 +10,12 @@ h2 {
   text-align: center;
 }
 
+h2.looking {
+  color: darkblue;
+  font-family: arial;
+  text-align: left;
+}
+
 h3 {
   color: darkblue;
   font-family: arial;
@@ -26,6 +32,7 @@ ul {
   font-style: none;
   font-weight: bold;
   font-size: 18px;
+  text-align: left;
 }
 
 p {
